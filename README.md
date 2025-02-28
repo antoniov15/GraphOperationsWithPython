@@ -1,5 +1,7 @@
 # GraphOperationsWithPython
 
+Homework from uni
+
 graaph type (directed/undirected), simple, weighted, weighted and costed;
 ability to draw nodes edges, move nodes;
 Algorithms:
